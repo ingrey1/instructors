@@ -1,0 +1,19 @@
+{
+  "name": "instructors",
+  "version": "1.0.0",
+  "description": "learning hapi through frontend masters tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingrey1/instructors.git"
+  },
+  "author": "jason mortensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingrey1/instructors/issues"
+  },
+  "homepage": "https://github.com/ingrey1/instructors#readme"
+}
